@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExpenseNote</string>
+    <string name="title_expense_note">บันทึกค่าใช้จ่ายประจำวัน 📝</string>
+    <string name="subtitle_expense_note">✨ จดทุกบาทที่ใช้วันนี้ให้ครบเลยนะ ✨</string>
+    <string name="label_enter_amount">💰 โปรดใส่จำนวนเงิน (เป็นบาท)</string>
+    <string name="hint_amount">เช่น 100 หรือ 10.25</string>
+    <string name="label_description">✏️ คำอธิบาย</string>
+    <string name="hint_description">เช่น ข้าวกลางวัน, ค่าเดินทาง</string>
+    <string name="btn_clear">🧹 เคลียร์</string>
+    <string name="btn_add">➕ เพิ่มรายการ</string>
+    <string name="label_recent">📌 รายการล่าสุด :-</string>
+    <string name="text_no_items">ยังไม่มีรายการ</string>
+    <string name="text_total">💖 ยอดรวมวันนี้: 0.00 บาท</string>
+</resources>

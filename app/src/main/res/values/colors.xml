@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Cute Pastel Palette -->
+    <color name="pastel_bg">#F7F3FF</color>
+    <color name="pastel_card_bg">#FFFFFF</color>
+    <color name="pastel_card_border">#E2D4F0</color>
+    <color name="pastel_title">#6C5CE7</color>
+    <color name="pastel_subtitle">#887BB0</color>
+    <color name="pastel_label">#4A4E69</color>
+    <color name="pastel_input_bg">#F2F5FF</color>
+    <color name="pastel_input_border">#D0D7FF</color>
+    <color name="pastel_hint">#9EA3B0</color>
+    <color name="pastel_btn_clear_bg">#FFD6E0</color>
+    <color name="pastel_btn_clear_text">#D63484</color>
+    <color name="pastel_btn_add_bg">#C8ACD6</color>
+    <color name="pastel_btn_add_text">#2D1E2F</color>
+    <color name="pastel_summary_bg">#FFF0F5</color>
+    <color name="pastel_summary_text">#D63484</color>
+    <color name="pastel_divider">#E8E0FB</color>
+</resources>
